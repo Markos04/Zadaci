@@ -1,0 +1,81 @@
+
+2)  Napiši program koji određuje broj kućice u kojoj živi Viktor 
+(ako je između Ane i Borisa paran broj kućica, Viktor živi u onoj koja je bliža Ani).
+(a - b)/2 - razdaljina tacke od centra izmedju tacaka
+(a + b)/2 - pozicija centra izmedju tacaka
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int br_p, prvi, drugi, do_dr;
+
+    cin >> br_p >> prvi >> drugi;
+    if (drugi <= br_p){
+        do_dr = drugi - prvi;
+    }
+    if (drugi > br_p){
+        do_dr = (br_p - prvi) + drugi;
+    }
+    cout << do_dr << endl;
+
+    return 0;
+}
+-------------------------------------------
+
+Mnogo je stvari koje bih sada hteo, sa tobom da radim al' ne bih smeo! 
+Hoću da pamtimo doživljaj ceo, Hajde bežimo negde na selo! Hajdemo negde daleko 'de nema nikog, da gledamo u potok, cirkamo pivo  Baš mi je krivo, što ranije nismo Mogli da se sretnemo i odemo u p**du m*****nu!
+Negde u šume, u neku divljinu!
+Da pričamo u mraku sami na miru! Treba mi, neko ko ti, ko kapira ovaj moj svet ludiii! Ovde su ljudi, mnogo zliiiiii! Samo jedna stvar, me održava! Kako ne shvataš ?! Nisi svesna šta mi predstavljaš!
+
+
+Mnoge stvari su me do sada interesovale, sport, muzika, nauka, mnogi hobiji, ali najsnažniji utisak na mene ostavilo je programiranje.
+Počeo sam da učim pri polasku u srednju školu i do danas se nisam zaustavio. Sve što sam naučio bilo je sa interneta jer nam u školi retko ko pruža primenjivo znanje.
+Kod programiranja volim to što pruža ogroman broj mogućnosti za stvaralaštvo i jedan je od najboljih načina za rešavanje bilo kog problema.
+Za sada, sebe u bliskoj budućnosti vidim na mestu programera, ali to nije glavna pozicija na kojoj sebe zamišljam. Sebe vidim kao kreatora, a programiranje kao alatku, 
+a i umetnost koja će pomoći u realizaciji neke od mojih ideja. Svojim znanjem bih iizumeo nešto korisno ili interesantno.
+
+Jedan od mojih omiljenih reditelja je Christopher Nolan, koji uz kompozitora Hans Zimmera ima običaj da napravi remek delo. 
+Muziku smatram jako bitnom za svaki film jer ona dočarava scenu i budi osećanja u gledaocu. 
+Hans Zimmer je moj omiljeni savremeni kompozitor koji ima genijalan odnos prema pisanju i svakome bih preporučio da posluša njegove kompozicije.
+
+
+Još od malena su me interesovale mnoge stvari. Ceo život sam u treningu, ozbiljno sam se bavio plivanjem do srednje škole, zatim sam trenirao košarku, kik boks, atletiku. 
+Volim muziku skoro svih žanrova. Pohađao sam 3 godine muzičke škole i još uvek sviram klavir, a uskoro počinjem i gitaru.
+Slažem rubikovu kocku već 2 godine (pb 13 sek, avg 18 sek), a takođe volim i da igram šah.
+Veliki sam ljubitelj filmova i serija. Omiljeni filmovi su mi: „Good Will Hunting“, 
+„Interstellar“, „Shawshank Redemption“, „Inception“, „The Dark Knight“, „Forrest Gump“, „Hacksaw Ridge“, „Shutter Island“.
+a serije: „Silicon Valley“, The Queen's Gambit“, „Game of Thrones“, „South Park“.
+
+
+Mislim da su ekipi potrebni ambiciozni ljudi puni entuzijazma.
+ U poslednjih par godina mi se javila potreba za stvaralaštvom, 
+a verujem da bi me kamp usmerio na pravi put na kome bih tu potrebu zadovoljio i upoznao ljude.
+
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+
+-------------------------------------------
+
+
+Chopin Waltz in A minor
